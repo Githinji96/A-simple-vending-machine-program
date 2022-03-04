@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Python 3.9 (PythonBuilder4Android) interpreter library">
+    <archive path="C:/Program Files/Python39/DLLs" />
+    <archive path="C:/Program Files/Python39/Lib" />
+    <archive path="C:/Program Files/Python39" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/IdeaProjects/PythonBuilder4Android/venv" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/IdeaProjects/PythonBuilder4Android/venv/Lib/site-packages" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Local/JetBrains/IdeaIC2021.1/python_stubs/-592471279" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/python-skeletons" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stdlib" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/jwt" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/six" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/mock" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/nmap" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/attrs" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/polib" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/retry" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/enum34" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/orjson" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/xxhash" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/chardet" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/futures" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/tzlocal" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/aiofiles" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/filelock" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/Markdown" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/paramiko" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/pathlib2" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/requests" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/waitress" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/freezegun" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/ipaddress" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/typed-ast" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/cachetools" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/Deprecated" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/frozendict" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/contextvars" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/cryptography" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/click-spinner" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/python-gflags" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/python-slugify" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" />
+  </library>
+  <library name="Python 3.9 (pythonHackeRank) interpreter library">
+    <archive path="C:/Program Files/Python39/DLLs" />
+    <archive path="C:/Program Files/Python39/Lib" />
+    <archive path="C:/Program Files/Python39" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/IdeaProjects/pythonHackeRank/venv" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/IdeaProjects/pythonHackeRank/venv/Lib/site-packages" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/-517841685" />
+    <archive path="C:/Users/user.DESKTOP-OMQ89VA/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/python-ce/helpers/python-skeletons" />
+  </library>
+  <library name="Python 3.9 interpreter library" />
+</eclipse-userlibraries>
+
